@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mohamed Hosny  
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI2M3hjOGl2bzV4NWF5MnhnengxcTcxYXRpdjQ3Zmp1dWlscnlvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" align="right" width="200" />
-
 ## About Me  
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI2M3hjOGl2bzV4NWF5MnhnengxcTcxYXRpdjQ3Zmp1dWlscnlvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" align="right" width="200" />
 
 I'm a **Flutter Developer** passionate about building high-performance, cross-platform mobile applications.  
 My expertise includes implementing **clean architecture**, utilizing advanced **state management solutions** (Bloc, Provider), and integrating robust backend services such as **Firebase** and **Supabase**.  
